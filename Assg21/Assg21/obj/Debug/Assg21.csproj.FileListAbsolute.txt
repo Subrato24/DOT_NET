@@ -1,0 +1,7 @@
+C:\DOT_NET\Assg21\Assg21\bin\Debug\Assg21.exe.config
+C:\DOT_NET\Assg21\Assg21\bin\Debug\Assg21.exe
+C:\DOT_NET\Assg21\Assg21\bin\Debug\Assg21.pdb
+C:\DOT_NET\Assg21\Assg21\obj\Debug\Assg21.csproj.AssemblyReference.cache
+C:\DOT_NET\Assg21\Assg21\obj\Debug\Assg21.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg21\Assg21\obj\Debug\Assg21.exe
+C:\DOT_NET\Assg21\Assg21\obj\Debug\Assg21.pdb

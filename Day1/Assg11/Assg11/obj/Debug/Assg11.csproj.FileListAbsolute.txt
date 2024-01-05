@@ -1,0 +1,14 @@
+C:\DOT_NET\Assg11\Assg11\bin\Debug\Assg11.exe.config
+C:\DOT_NET\Assg11\Assg11\bin\Debug\Assg11.exe
+C:\DOT_NET\Assg11\Assg11\bin\Debug\Assg11.pdb
+C:\DOT_NET\Assg11\Assg11\obj\Debug\Assg11.csproj.AssemblyReference.cache
+C:\DOT_NET\Assg11\Assg11\obj\Debug\Assg11.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg11\Assg11\obj\Debug\Assg11.exe
+C:\DOT_NET\Assg11\Assg11\obj\Debug\Assg11.pdb
+C:\DOT_NET\Day1\Assg11\Assg11\bin\Debug\Assg11.exe.config
+C:\DOT_NET\Day1\Assg11\Assg11\bin\Debug\Assg11.exe
+C:\DOT_NET\Day1\Assg11\Assg11\bin\Debug\Assg11.pdb
+C:\DOT_NET\Day1\Assg11\Assg11\obj\Debug\Assg11.csproj.AssemblyReference.cache
+C:\DOT_NET\Day1\Assg11\Assg11\obj\Debug\Assg11.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Day1\Assg11\Assg11\obj\Debug\Assg11.exe
+C:\DOT_NET\Day1\Assg11\Assg11\obj\Debug\Assg11.pdb

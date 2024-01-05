@@ -1,0 +1,14 @@
+C:\DOT_NET\Assg7\Assg7\bin\Debug\net8.0\Assg7.exe
+C:\DOT_NET\Assg7\Assg7\bin\Debug\net8.0\Assg7.deps.json
+C:\DOT_NET\Assg7\Assg7\bin\Debug\net8.0\Assg7.runtimeconfig.json
+C:\DOT_NET\Assg7\Assg7\bin\Debug\net8.0\Assg7.dll
+C:\DOT_NET\Assg7\Assg7\bin\Debug\net8.0\Assg7.pdb
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.AssemblyInfoInputs.cache
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.AssemblyInfo.cs
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.dll
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\refint\Assg7.dll
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.pdb
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\Assg7.genruntimeconfig.cache
+C:\DOT_NET\Assg7\Assg7\obj\Debug\net8.0\ref\Assg7.dll

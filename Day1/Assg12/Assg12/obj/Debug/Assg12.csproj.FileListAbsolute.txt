@@ -1,0 +1,7 @@
+C:\DOT_NET\Assg12\Assg12\bin\Debug\Assg12.exe.config
+C:\DOT_NET\Assg12\Assg12\bin\Debug\Assg12.exe
+C:\DOT_NET\Assg12\Assg12\bin\Debug\Assg12.pdb
+C:\DOT_NET\Assg12\Assg12\obj\Debug\Assg12.csproj.AssemblyReference.cache
+C:\DOT_NET\Assg12\Assg12\obj\Debug\Assg12.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg12\Assg12\obj\Debug\Assg12.exe
+C:\DOT_NET\Assg12\Assg12\obj\Debug\Assg12.pdb

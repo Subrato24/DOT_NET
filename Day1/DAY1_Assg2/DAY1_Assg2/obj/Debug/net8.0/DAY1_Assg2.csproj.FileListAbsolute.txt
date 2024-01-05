@@ -1,0 +1,14 @@
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\bin\Debug\net8.0\DAY1_Assg2.exe
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\bin\Debug\net8.0\DAY1_Assg2.deps.json
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\bin\Debug\net8.0\DAY1_Assg2.runtimeconfig.json
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\bin\Debug\net8.0\DAY1_Assg2.dll
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\bin\Debug\net8.0\DAY1_Assg2.pdb
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.AssemblyInfoInputs.cache
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.AssemblyInfo.cs
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.csproj.CoreCompileInputs.cache
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.dll
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\refint\DAY1_Assg2.dll
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.pdb
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\DAY1_Assg2.genruntimeconfig.cache
+C:\DOT_NET\DAY1_Assg2\DAY1_Assg2\obj\Debug\net8.0\ref\DAY1_Assg2.dll

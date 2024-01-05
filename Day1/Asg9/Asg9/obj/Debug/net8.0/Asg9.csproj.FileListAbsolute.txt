@@ -1,0 +1,14 @@
+C:\DOT_NET\Asg9\Asg9\bin\Debug\net8.0\Asg9.exe
+C:\DOT_NET\Asg9\Asg9\bin\Debug\net8.0\Asg9.deps.json
+C:\DOT_NET\Asg9\Asg9\bin\Debug\net8.0\Asg9.runtimeconfig.json
+C:\DOT_NET\Asg9\Asg9\bin\Debug\net8.0\Asg9.dll
+C:\DOT_NET\Asg9\Asg9\bin\Debug\net8.0\Asg9.pdb
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.AssemblyInfoInputs.cache
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.AssemblyInfo.cs
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.dll
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\refint\Asg9.dll
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.pdb
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\Asg9.genruntimeconfig.cache
+C:\DOT_NET\Asg9\Asg9\obj\Debug\net8.0\ref\Asg9.dll

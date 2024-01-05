@@ -1,0 +1,14 @@
+C:\DOT_NET\Assg4\Assg4\bin\Debug\net8.0\Assg4.exe
+C:\DOT_NET\Assg4\Assg4\bin\Debug\net8.0\Assg4.deps.json
+C:\DOT_NET\Assg4\Assg4\bin\Debug\net8.0\Assg4.runtimeconfig.json
+C:\DOT_NET\Assg4\Assg4\bin\Debug\net8.0\Assg4.dll
+C:\DOT_NET\Assg4\Assg4\bin\Debug\net8.0\Assg4.pdb
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.AssemblyInfoInputs.cache
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.AssemblyInfo.cs
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.dll
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\refint\Assg4.dll
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.pdb
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\Assg4.genruntimeconfig.cache
+C:\DOT_NET\Assg4\Assg4\obj\Debug\net8.0\ref\Assg4.dll

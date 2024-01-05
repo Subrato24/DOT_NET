@@ -1,0 +1,14 @@
+C:\DOT_NET\Assg5\Assg5\bin\Debug\net8.0\Assg5.exe
+C:\DOT_NET\Assg5\Assg5\bin\Debug\net8.0\Assg5.deps.json
+C:\DOT_NET\Assg5\Assg5\bin\Debug\net8.0\Assg5.runtimeconfig.json
+C:\DOT_NET\Assg5\Assg5\bin\Debug\net8.0\Assg5.dll
+C:\DOT_NET\Assg5\Assg5\bin\Debug\net8.0\Assg5.pdb
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.AssemblyInfoInputs.cache
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.AssemblyInfo.cs
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.dll
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\refint\Assg5.dll
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.pdb
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\Assg5.genruntimeconfig.cache
+C:\DOT_NET\Assg5\Assg5\obj\Debug\net8.0\ref\Assg5.dll

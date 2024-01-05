@@ -1,0 +1,14 @@
+C:\DOT_NET\Assg10\Assg10\bin\Debug\net8.0\Assg10.exe
+C:\DOT_NET\Assg10\Assg10\bin\Debug\net8.0\Assg10.deps.json
+C:\DOT_NET\Assg10\Assg10\bin\Debug\net8.0\Assg10.runtimeconfig.json
+C:\DOT_NET\Assg10\Assg10\bin\Debug\net8.0\Assg10.dll
+C:\DOT_NET\Assg10\Assg10\bin\Debug\net8.0\Assg10.pdb
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.AssemblyInfoInputs.cache
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.AssemblyInfo.cs
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.csproj.CoreCompileInputs.cache
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.dll
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\refint\Assg10.dll
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.pdb
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\Assg10.genruntimeconfig.cache
+C:\DOT_NET\Assg10\Assg10\obj\Debug\net8.0\ref\Assg10.dll
