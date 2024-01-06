@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<section>
+    <h1>Events Chart</h1>
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Event Id</th>
+                <th>Event name</th>
+                <th>Description</th>
+                <th>Start_Date</th>
+                <th>End_Date</th>
+                <th>Fee</th>
+                <th>Total_Seat_Filled</th>
+                <th>Logo</th>
+                <th>Code</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var eve in Model)
+            {
+                <tr>
+                    <td>@eve.eventId</td>
+                    <td>@eve.eventName</td>
+                    <td>@eve.description</td>
+                    <td>@eve.startdate</td>
+                    <td>@eve.enddate</td>
+                    <td>@eve.fees</td>
+                    <td>@eve.totalseatfilled</td>
+                    <td>@eve.logo</td>
+                    <td>@eve.code</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>

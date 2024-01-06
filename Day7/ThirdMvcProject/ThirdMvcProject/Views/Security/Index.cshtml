@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<section>
+    <h1>User List</h1>
+    <table class="table table-hover table-striped">
+        <thead>
+            <tr>
+                <th>User Id</th>
+                <th>Email</th>
+                <th>Password</th>
+                <th>Rolename</th>
+            </tr>            
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td>@user.userId</td>
+                    <td>@user.email</td>
+                    <td>@user.password</td>
+                    <td>@user.rolename</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</section>
