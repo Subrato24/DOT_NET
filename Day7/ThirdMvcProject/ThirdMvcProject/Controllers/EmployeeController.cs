@@ -20,9 +20,9 @@ namespace ThirdMvcProject.Controllers
         {
             employee = new List<Employee>()
             {
-                new Employee() {empId=1001, empName="Alicia K.", city="",country="",phone="",email="Berlin@gmail.com",skillset="",avatar="",zipcode = ""},
-                new Employee() {empId=1002, empName="John Mark",city="",country="",phone="",email="London@gmail.com",skillset="",avatar="",zipcode = ""},
-                new Employee() {empId=1003, empName="Maria Andrus",city="",country="",phone="",email="Berlin@gmail.com",skillset="",avatar="",zipcode = ""},
+                new Employee() {empId=1001, empName="Alicia K.", city="NewYork",country="USA",phone="1234567",email="Berlin@gmail.com",skillset="React js,MySql,DSA",avatar="CEO",zipcode = "12346"},
+                new Employee() {empId=1002, empName="John Mark",city="Denmark",country="Poland",phone="7654328",email="London@gmail.com",skillset=".net,sql,nodejs",avatar="Manager",zipcode = "76548"},
+                new Employee() {empId=1003, empName="Maria Andrus",city="Yorkshire",country="Canada",phone="0987632",email="Berlin@gmail.com",skillset="materialui,bootstrap",avatar="Frontend",zipcode = "984332"},
             };
            
         }
