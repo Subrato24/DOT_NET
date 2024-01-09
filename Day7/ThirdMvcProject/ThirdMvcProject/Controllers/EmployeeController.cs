@@ -6,6 +6,7 @@ using System.Security.Policy;
 using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
+using ThirdMvcProject.Dal;
 using ThirdMvcProject.Models;
 
 namespace ThirdMvcProject.Controllers
@@ -14,21 +15,35 @@ namespace ThirdMvcProject.Controllers
     {
         // GET: Employee
 
-        List<Employee> employee;
+       private readonly EmployeeDal _employee;
         
-        public EmployeeController()
+        public EmployeeController(EmployeeDal emp)
         {
-            employee = new List<Employee>()
-            {
-                new Employee() {empId=1001, empName="Alicia K.", city="NewYork",country="USA",phone="1234567",email="Berlin@gmail.com",skillset="React js,MySql,DSA",avatar="CEO",zipcode = "12346"},
-                new Employee() {empId=1002, empName="John Mark",city="Denmark",country="Poland",phone="7654328",email="London@gmail.com",skillset=".net,sql,nodejs",avatar="Manager",zipcode = "76548"},
-                new Employee() {empId=1003, empName="Maria Andrus",city="Yorkshire",country="Canada",phone="0987632",email="Berlin@gmail.com",skillset="materialui,bootstrap",avatar="Frontend",zipcode = "984332"},
-            };
-           
+            _employee = emp;
         }
         public ActionResult List1()
         {
-            return View(employee);
+            return View(_employee.getAllEmployee());
         }
+        public ActionResult Details(int Id) {
+            return View(_employee.getEmployeeById(Id));
+        }
+        public ActionResult Create(Employee emp)
+        {
+            if (ModelState.IsValid)
+            {
+                int result = _employee.InsertEmployee(emp);
+                if (result > 0)
+                {
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    return View();
+                }
+            }
+            return View();
+        }
+
     }
 }

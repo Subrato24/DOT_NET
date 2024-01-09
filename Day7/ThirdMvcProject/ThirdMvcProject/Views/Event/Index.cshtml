@@ -25,12 +25,14 @@
                     <td>@eve.enddate</td>
                     <td>@eve.fees</td>
                     <td>
-                        @Html.ActionLink("Show Details", "Details", new { id = eve.eventId }, new { @class = "btn btn-info" })
+                        @Html.ActionLink("SHOW", "Details", new { id = eve.eventId }, new { @class = "btn btn-info" })
                     </td>
                 </tr>
             }
         </tbody>
     </table>
+    <p>@Html.ActionLink("Add events", "Create", new { @class = "btn btn-info" })</p>
+    
 }
 else
 {

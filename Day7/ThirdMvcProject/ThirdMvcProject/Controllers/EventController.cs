@@ -23,10 +23,6 @@ namespace ThirdMvcProject.Controllers
         {
             return View(_eventDal.GetEventById(Id));
         }
-        public ActionResult Create()
-        {
-            return View();
-        }
         [HttpPost]
         public ActionResult Create(Event eve)
         {

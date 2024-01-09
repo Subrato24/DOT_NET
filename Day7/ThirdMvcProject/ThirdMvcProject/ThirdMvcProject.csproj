@@ -186,7 +186,9 @@
     <Compile Include="Controllers\EventController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SecurityController.cs" />
+    <Compile Include="Dal\EmployeeDal.cs" />
     <Compile Include="Dal\EventDal.cs" />
+    <Compile Include="Dal\SecurityDal.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -275,11 +277,17 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Employee\List1.cshtml" />
-    <Content Include="Views\Security\Index.cshtml" />
     <Content Include="Views\Default\Index.cshtml" />
     <Content Include="Views\Event\Index.cshtml" />
     <Content Include="Views\Event\Details.cshtml" />
     <Content Include="Views\Event\Create.cshtml" />
+    <Content Include="Views\Employee\Details.cshtml" />
+    <Content Include="Views\Employee\Create.cshtml" />
+    <Content Include="Views\Security\Index.cshtml" />
+    <Content Include="Views\Security\Details.cshtml" />
+    <Content Include="Views\Security\Create.cshtml" />
+    <Content Include="Views\Home\View.cshtml" />
+    <Content Include="Views\Security\Login.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

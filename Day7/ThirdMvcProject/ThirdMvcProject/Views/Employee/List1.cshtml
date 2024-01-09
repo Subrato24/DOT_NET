@@ -7,19 +7,16 @@
 
 <main>
     <section>
+        @if(Model.Count > 0)
+        {
         <table class="table table-hover table-striped">
             <thead>
                 <tr>
                     <th>Employee Id</th>
                     <th>Name</th>
-                    <th>city</th>
                     <th>country</th>
-                    <th>phone</th>
                     <th>Email</th>
-                    <th>Skills</th>
                     <th>Avatar</th>
-                    <th>Zip</th>
-
                 </tr>
             </thead>
             <tbody>
@@ -28,16 +25,19 @@
                     <tr>
                         <td>@employee.empId</td>
                         <td>@employee.empName</td>
-                        <td>@employee.city</td>
                         <td>@employee.country</td>
-                        <td>@employee.phone</td>
                         <td>@employee.email</td>
-                        <td>@employee.skillset</td>
                         <td>@employee.avatar</td>
-                        <td>@employee.zipcode</td>
+                        <td> @Html.ActionLink("Show Details", "Details", new { id = employee.empId }, new { @class = "btn btn-info" })</td>
                     </tr>
                 }
             </tbody>
         </table>
+        <p>@Html.ActionLink("Add employee", "Create", new { @class = "btn btn-info" })</p>
+        }
+else
+            {
+                <h1>No employee record present yet!!!</h1>
+            }
     </section>
 </main>

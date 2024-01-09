@@ -1,6 +1,7 @@
 using System.ComponentModel;
 using System.Web.Mvc;
 using ThirdMvcProject.Dal;
+using ThirdMvcProject.Models;
 using Unity;
 using Unity.Mvc5;
 
@@ -16,6 +17,8 @@ namespace ThirdMvcProject
             // it is NOT necessary to register your controllers
 
             // e.g. container.RegisterType<ITestService, TestService>();
+            container.RegisterType<SecurityDal, SecurityDal>();
+            container.RegisterType<EmployeeDal, EmployeeDal>();
             container.RegisterType<EventDal, EventDal>();
             DependencyResolver.SetResolver(new UnityDependencyResolver(container));
         }
