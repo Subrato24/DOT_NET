@@ -6,6 +6,7 @@ using System.Security.Policy;
 using System.Web;
 using System.Web.Helpers;
 using System.Web.Mvc;
+using ThirdMvcProject.Dal;
 using ThirdMvcProject.Models;
 
 namespace ThirdMvcProject.Controllers
@@ -14,21 +15,35 @@ namespace ThirdMvcProject.Controllers
     {
         // GET: Employee
 
-        List<Employee> employee;
+       private readonly EmployeeDal _employee;
         
-        public EmployeeController()
+        public EmployeeController(EmployeeDal emp)
         {
-            employee = new List<Employee>()
-            {
-                new Employee() {empId=1001, empName="Alicia K.", city="",country="",phone="",email="Berlin@gmail.com",skillset="",avatar="",zipcode = ""},
-                new Employee() {empId=1002, empName="John Mark",city="",country="",phone="",email="London@gmail.com",skillset="",avatar="",zipcode = ""},
-                new Employee() {empId=1003, empName="Maria Andrus",city="",country="",phone="",email="Berlin@gmail.com",skillset="",avatar="",zipcode = ""},
-            };
-           
+            _employee = emp;
         }
         public ActionResult List1()
         {
-            return View(employee);
+            return View(_employee.getAllEmployee());
         }
+        public ActionResult Details(int Id) {
+            return View(_employee.getEmployeeById(Id));
+        }
+        public ActionResult Create(Employee emp)
+        {
+            if (ModelState.IsValid)
+            {
+                int result = _employee.InsertEmployee(emp);
+                if (result > 0)
+                {
+                    return RedirectToAction("Index");
+                }
+                else
+                {
+                    return View();
+                }
+            }
+            return View();
+        }
+
     }
 }
